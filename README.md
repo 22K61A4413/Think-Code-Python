@@ -22,8 +22,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 
 | S.No | Problem Title                                       | Level        | Status         | Link to Code |
 |------|-----------------------------------------------------|--------------|----------------|--------------|
-| 1    | Print "Hello, World!"                               | 🟢 Beginner   | ⬜ Not Started  |              |
-| 2    | Sum of two numbers                                  | 🟢 Beginner   | ⬜ Not Started  |              |
+| 1    | Print "Hello, World!"                               | 🟢 Beginner   | Completed  |     https://github.com/22K61A4413/Think-Code-Python/blob/main/HelloWorld.py         |
+| 2    | Sum of two numbers                                  | 🟢 Beginner   | Completed  |              |
 | 3    | Maximum of two numbers                              | 🟢 Beginner   | ⬜ Not Started  |              |
 | 4    | Check even or odd                                   | 🟢 Beginner   | ⬜ Not Started  |              |
 | 5    | Check prime number                                  | 🟢 Beginner   | ⬜ Not Started  |              |
