@@ -24,8 +24,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 |------|-----------------------------------------------------|--------------|----------------|--------------|
 | 1    | Print "Hello, World!"                               | 🟢 Beginner   | Completed  |     https://github.com/22K61A4413/Think-Code-Python/blob/main/HelloWorld.py         |
 | 2    | Sum of two numbers                                  | 🟢 Beginner   | Completed  |     https://github.com/22K61A4413/Think-Code-Python/blob/main/Sum%20of%20two%20numbers.py         |
-| 3    | Maximum of two numbers                              | 🟢 Beginner   | ⬜ Not Started  |              |
-| 4    | Check even or odd                                   | 🟢 Beginner   | ⬜ Not Started  |              |
+| 3    | Maximum of two numbers                              | 🟢 Beginner   | Completed  |      https://github.com/22K61A4413/Think-Code-Python/blob/main/Maximum%20of%20two%20numbers.py        |
+| 4    | Check even or odd                                   | 🟢 Beginner   | Completed  |              |
 | 5    | Check prime number                                  | 🟢 Beginner   | ⬜ Not Started  |              |
 | 6    | Find factorial of a number                          | 🟢 Beginner   | ⬜ Not Started  |              |
 | 7    | Fibonacci sequence up to n                          | 🟢 Beginner   | ⬜ Not Started  |              |
