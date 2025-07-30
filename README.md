@@ -29,7 +29,7 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 5    | Check prime number                                  | 🟢 Beginner   | Completed  |     https://github.com/22K61A4413/Think-Code-Python/blob/main/Check%20prime%20number.py         |
 | 6    | Find factorial of a number                          | 🟢 Beginner   | Completed  |         https://github.com/22K61A4413/Think-Code-Python/blob/main/Find%20factorial%20of%20a%20number.py     |
 | 7    | Fibonacci sequence up to n                          | 🟢 Beginner   | Completed |       https://github.com/22K61A4413/Think-Code-Python/blob/main/Fibonacci%20sequence%20up%20to%20n.py       |
-| 8    | Reverse a number                                    | 🟢 Beginner   | Completed   |              |
+| 8    | Reverse a number                                    | 🟢 Beginner   | Completed   |     https://github.com/22K61A4413/Think-Code-Python/blob/main/Reverse%20a%20number.py         |
 | 9    | Palindrome number                                   | 🟢 Beginner   | ⬜ Not Started  |              |
 | 10   | Count digits in a number                            | 🟢 Beginner   | ⬜ Not Started  |              |
 | 11   | Armstrong number check                              | 🟢 Beginner   | ⬜ Not Started  |              |
