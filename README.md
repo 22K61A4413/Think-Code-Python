@@ -22,16 +22,16 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 
 | S.No | Problem Title                                       | Level        | Status         | Link to Code |
 |------|-----------------------------------------------------|--------------|----------------|--------------|
-| 1    | Print "Hello, World!"                               | 🟢 Beginner   | Completed  |     https://github.com/22K61A4413/Think-Code-Python/blob/main/HelloWorld.py         |
-| 2    | Sum of two numbers                                  | 🟢 Beginner   | Completed  |     https://github.com/22K61A4413/Think-Code-Python/blob/main/Sum%20of%20two%20numbers.py         |
-| 3    | Maximum of two numbers                              | 🟢 Beginner   | Completed  |      https://github.com/22K61A4413/Think-Code-Python/blob/main/Maximum%20of%20two%20numbers.py        |
-| 4    | Check even or odd                                   | 🟢 Beginner   | Completed  |       https://github.com/22K61A4413/Think-Code-Python/blob/main/Check%20even%20or%20odd.py       |
-| 5    | Check prime number                                  | 🟢 Beginner   | Completed  |     https://github.com/22K61A4413/Think-Code-Python/blob/main/Check%20prime%20number.py         |
-| 6    | Find factorial of a number                          | 🟢 Beginner   | Completed  |         https://github.com/22K61A4413/Think-Code-Python/blob/main/Find%20factorial%20of%20a%20number.py     |
-| 7    | Fibonacci sequence up to n                          | 🟢 Beginner   | Completed  |       https://github.com/22K61A4413/Think-Code-Python/blob/main/Fibonacci%20sequence%20up%20to%20n.py       |
-| 8    | Reverse a number                                    | 🟢 Beginner   | Completed  |     https://github.com/22K61A4413/Think-Code-Python/blob/main/Reverse%20a%20number.py         |
-| 9    | Palindrome number                                   | 🟢 Beginner   | Completed  |    https://github.com/22K61A4413/Think-Code-Python/blob/main/Palindrome%20number.py          |
-| 10   | Count digits in a number                            | 🟢 Beginner   | Completed  |              |
+| 1    | Print "Hello, World!"                               | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/HelloWorld.py         |
+| 2    | Sum of two numbers                                  | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Sum%20of%20two%20numbers.py         |
+| 3    | Maximum of two numbers                              | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Maximum%20of%20two%20numbers.py        |
+| 4    | Check even or odd                                   | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Check%20even%20or%20odd.py       |
+| 5    | Check prime number                                  | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Check%20prime%20number.py         |
+| 6    | Find factorial of a number                          | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Find%20factorial%20of%20a%20number.py     |
+| 7    | Fibonacci sequence up to n                          | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Fibonacci%20sequence%20up%20to%20n.py       |
+| 8    | Reverse a number                                    | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Reverse%20a%20number.py         |
+| 9    | Palindrome number                                   | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Palindrome%20number.py          |
+| 10   | Count digits in a number                            | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Count%20digits%20in%20a%20number.py      |
 | 11   | Armstrong number check                              | 🟢 Beginner   | ⬜ Not Started  |              |
 | 12   | Print all primes between 1 to 100                   | 🟢 Beginner   | ⬜ Not Started  |              |
 | 13   | Sum of digits of a number                           | 🟢 Beginner   | ⬜ Not Started  |              |
