@@ -32,8 +32,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 8    | Reverse a number                                    | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Reverse%20a%20number.py         |
 | 9    | Palindrome number                                   | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Palindrome%20number.py          |
 | 10   | Count digits in a number                            | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Count%20digits%20in%20a%20number.py      |
-| 11   | Armstrong number check                              | 🟢 Beginner   | ⬜ Not Started  |              |
-| 12   | Print all primes between 1 to 100                   | 🟢 Beginner   | ⬜ Not Started  |              |
+| 11   | Armstrong number check                              | 🟢 Beginner   | Completed  |              |
+| 12   | Print all primes between 1 to 100                   | 🟢 Beginner   | Completed  |              |
 | 13   | Sum of digits of a number                           | 🟢 Beginner   | ⬜ Not Started  |              |
 | 14   | GCD of two numbers                                  | 🟢 Beginner   | ⬜ Not Started  |              |
 | 15   | LCM of two numbers                                  | 🟢 Beginner   | ⬜ Not Started  |              |
