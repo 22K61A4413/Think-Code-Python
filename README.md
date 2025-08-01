@@ -33,7 +33,7 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 9    | Palindrome number                                   | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Palindrome%20number.py          |
 | 10   | Count digits in a number                            | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Count%20digits%20in%20a%20number.py      |
 | 11   | Armstrong number check                              | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Armstrong%20number%20check.py           |
-| 12   | Print all primes between 1 to 100                   | 🟢 Beginner   | Completed  |              |
+| 12   | Print all primes between 1 to 100                   | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Print%20all%20primes%20between%201%20to%20100.py             |
 | 13   | Sum of digits of a number                           | 🟢 Beginner   | ⬜ Not Started  |              |
 | 14   | GCD of two numbers                                  | 🟢 Beginner   | ⬜ Not Started  |              |
 | 15   | LCM of two numbers                                  | 🟢 Beginner   | ⬜ Not Started  |              |
