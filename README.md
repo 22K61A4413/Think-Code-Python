@@ -38,7 +38,7 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 14   | GCD of two numbers                                  | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/GCD%20of%20two%20numbers.py          |
 | 15   | LCM of two numbers                                  | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/LCM%20of%20two%20numbers.py          |
 | 16   | Swap two numbers without temp variable              | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Swap%20two%20numbers%20without%20temp%20variable.py          |
-| 17   | Convert Celsius to Fahrenheit                       | 🟢 Beginner   | Completed  |              |
+| 17   | Convert Celsius to Fahrenheit                       | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Convert%20Celsius%20to%20Fahrenheit.py             |
 | 18   | Check leap year                                     | 🟢 Beginner   | Completed  |              |
 | 19   | Calculator using functions                          | 🟢 Beginner   | ⬜ Not Started  |              |
 | 20   | ASCII value of a character                          | 🟢 Beginner   | ⬜ Not Started  |              |
