@@ -41,7 +41,7 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 17   | Convert Celsius to Fahrenheit                       | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Convert%20Celsius%20to%20Fahrenheit.py             |
 | 18   | Check leap year                                     | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Check%20leap%20year.py           |
 | 19   | Calculator using functions                          | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Calculator%20using%20functions.py           |
-| 20   | ASCII value of a character                          | 🟢 Beginner   | Completed  |              |
+| 20   | ASCII value of a character                          | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Armstrong%20number%20check.py             |
 | 21   | Number to binary, octal, and hexadecimal            | 🟢 Beginner   | ⬜ Not Started  |              |
 | 22   | Sum of first n natural numbers                      | 🟢 Beginner   | ⬜ Not Started  |              |
 | 23   | Print star pattern (triangle, pyramid, etc.)        | 🟢 Beginner   | ⬜ Not Started  |              |
