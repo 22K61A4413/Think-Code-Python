@@ -1,0 +1,7 @@
+number=int(input("Enter a number: "))
+binary=bin(number)
+print(f"The binary number for {number} is {binary}")
+octal=oct(number)
+print(f"The binary number for {number} is {octal}")
+hexadecimal=hex(number)
+print(f"The binary number for {number} is {hexadecimal}")
