@@ -44,7 +44,7 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 20   | ASCII value of a character                          | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Armstrong%20number%20check.py             |
 | 21   | Number to binary, octal, and hexadecimal            | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Number%20to%20binary%2C%20octal%2C%20and%20hexadecimal.py           |
 | 22   | Sum of first n natural numbers                      | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Sum%20of%20first%20n%20natural%20numbers.py           |
-| 23   | Print star pattern (triangle, pyramid, etc.)        | 🟢 Beginner   | Completed  |              |
+| 23   | Print star pattern (triangle, pyramid, etc.)        | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Print%20star%20pattern.py             |
 | 24   | Count vowels and consonants                         | 🟢 Beginner   | Completed  |              |
 | 25   | Remove punctuation from string                      | 🟢 Beginner   | ⬜ Not Started  |              |
 | 26   | Reverse a string                                    | 🟢 Beginner   | ⬜ Not Started  |              |
