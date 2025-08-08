@@ -47,7 +47,7 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 23   | Print star pattern (triangle, pyramid, etc.)        | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Print%20star%20pattern.py             |
 | 24   | Count vowels and consonants                         | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Count%20vowels%20and%20consonants.py          |
 | 25   | Remove punctuation from string                      | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Remove%20punctuation%20from%20string.py            |
-| 26   | Reverse a string                                    | 🟢 Beginner   | Completed  |              |
+| 26   | Reverse a string                                    | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Reverse%20a%20string.py             |
 | 27   | Count words in a sentence                           | 🟢 Beginner   | ⬜ Not Started  |              |
 | 28   | Capitalize first letter of each word                | 🟢 Beginner   | ⬜ Not Started  |              |
 | 29   | Replace substring in string                         | 🟢 Beginner   | ⬜ Not Started  |              |
