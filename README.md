@@ -52,8 +52,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 28   | Capitalize first letter of each word                | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Capitalize%20first%20letter%20of%20each%20word.py             |
 | 29   | Replace substring in string                         | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Replace%20substring%20in%20string.py             |
 | 30   | Find the frequency of characters                    | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Find%20the%20frequency%20of%20characters.py             |
-| 31   | Find second largest element in list                 | 🟡 Intermediate| ⬜ Not Started  |              |
-| 32   | Find duplicates in a list                           | 🟡 Intermediate| ⬜ Not Started  |              |
+| 31   | Find second largest element in list                 | 🟡 Intermediate| Completed  |              |
+| 32   | Find duplicates in a list                           | 🟡 Intermediate| Completed  |              |
 | 33   | Merge two sorted lists                              | 🟡 Intermediate| ⬜ Not Started  |              |
 | 34   | Sort list using bubble sort                         | 🟡 Intermediate| ⬜ Not Started  |              |
 | 35   | Find common elements in two lists                   | 🟡 Intermediate| ⬜ Not Started  |              |
