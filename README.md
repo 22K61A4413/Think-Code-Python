@@ -54,8 +54,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 30   | Find the frequency of characters                    | 🟢 Beginner   | Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Find%20the%20frequency%20of%20characters.py             |
 | 31   | Find second largest element in list                 | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Find%20second%20largest%20element%20in%20list.py             |
 | 32   | Find duplicates in a list                           | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Find%20duplicates%20in%20a%20list.py             |
-| 33   | Merge two sorted lists                              | 🟡 Intermediate| ⬜ Not Started  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Merge%20two%20sorted%20lists.py              |
-| 34   | Sort list using bubble sort                         | 🟡 Intermediate| ⬜ Not Started  |              |
+| 33   | Merge two sorted lists                              | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Merge%20two%20sorted%20lists.py              |
+| 34   | Sort list using bubble sort                         | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Sort%20list%20using%20bubble%20sort.py             |
 | 35   | Find common elements in two lists                   | 🟡 Intermediate| ⬜ Not Started  |              |
 | 36   | Remove all duplicates from list                     | 🟡 Intermediate| ⬜ Not Started  |              |
 | 37   | Find frequency of elements in list                  | 🟡 Intermediate| ⬜ Not Started  |              |
