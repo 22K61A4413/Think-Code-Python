@@ -1,0 +1,7 @@
+list1=list(map(int,input("Enter list1: ").split()))
+s_list1=sorted(list1)
+list2=list(map(int,input("Enter list2: ").split()))
+s_list2=sorted(list2)
+print(f"The sorted lists are: {s_list1} , {s_list2}")
+merged_list=sorted(s_list1+s_list2)
+print("Merge two sorted lists: ",merged_list)
