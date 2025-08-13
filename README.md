@@ -56,8 +56,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 32   | Find duplicates in a list                           | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Find%20duplicates%20in%20a%20list.py             |
 | 33   | Merge two sorted lists                              | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Merge%20two%20sorted%20lists.py              |
 | 34   | Sort list using bubble sort                         | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Sort%20list%20using%20bubble%20sort.py             |
-| 35   | Find common elements in two lists                   | 🟡 Intermediate| ⬜ Not Started  |              |
-| 36   | Remove all duplicates from list                     | 🟡 Intermediate| ⬜ Not Started  |              |
+| 35   | Find common elements in two lists                   | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Find%20common%20elements%20in%20two%20lists.py             |
+| 36   | Remove all duplicates from list                     | 🟡 Intermediate|  Completed  |              |
 | 37   | Find frequency of elements in list                  | 🟡 Intermediate| ⬜ Not Started  |              |
 | 38   | Linear search in list                               | 🟡 Intermediate| ⬜ Not Started  |              |
 | 39   | Binary search (recursive and iterative)             | 🟡 Intermediate| ⬜ Not Started  |              |
