@@ -57,9 +57,9 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 33   | Merge two sorted lists                              | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Merge%20two%20sorted%20lists.py              |
 | 34   | Sort list using bubble sort                         | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Sort%20list%20using%20bubble%20sort.py             |
 | 35   | Find common elements in two lists                   | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Find%20common%20elements%20in%20two%20lists.py             |
-| 36   | Remove all duplicates from list                     | 🟡 Intermediate|  Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Remove%20all%20duplicates%20from%20list.py              |
-| 37   | Find frequency of elements in list                  | 🟡 Intermediate| ⬜ Not Started  |              |
-| 38   | Linear search in list                               | 🟡 Intermediate| ⬜ Not Started  |              |
+| 36   | Remove all duplicates from list                     | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Remove%20all%20duplicates%20from%20list.py              |
+| 37   | Find frequency of elements in list                  | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Find%20frequency%20of%20elements%20in%20list.PY             |
+| 38   | Linear search in list                               | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/traditional(linear%20search)%20in%20lists.py              |
 | 39   | Binary search (recursive and iterative)             | 🟡 Intermediate| ⬜ Not Started  |              |
 | 40   | Count even and odd numbers in list                  | 🟡 Intermediate| ⬜ Not Started  |              |
 | 41   | Find minimum and maximum in list                    | 🟡 Intermediate| ⬜ Not Started  |              |
