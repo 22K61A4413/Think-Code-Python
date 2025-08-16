@@ -63,7 +63,7 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 39   | Binary search (recursive and iterative)             | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Binary%20search%20(recursive%20and%20iterative).py             |
 | 40   | Count even and odd numbers in list                  | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Count%20even%20and%20odd%20numbers%20in%20list.py             |
 | 41   | Find minimum and maximum in list                    | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Find%20minimum%20and%20maximum%20in%20list.py             |
-| 42   | Palindrome string check                             | 🟡 Intermediate| Completed  |              |
+| 42   | Palindrome string check                             | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Palindrome%20number.py             |
 | 43   | Anagram check                                       | 🟡 Intermediate| ⬜ Not Started  |              |
 | 44   | Check pangram                                       | 🟡 Intermediate| ⬜ Not Started  |              |
 | 45   | Remove spaces from string                           | 🟡 Intermediate| ⬜ Not Started  |              |
