@@ -1,0 +1,5 @@
+my_list=list(map(int,input("Enter the elemnts in the list: ").split()))
+min_element=min(my_list)
+max_element=max(my_list)
+print(f"The minimum element:{min_element}")
+print(f"The maximum element:{max_element}")
