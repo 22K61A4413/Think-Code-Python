@@ -65,7 +65,7 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 41   | Find minimum and maximum in list                    | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Find%20minimum%20and%20maximum%20in%20list.py             |
 | 42   | Palindrome string check                             | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Palindrome%20number.py             |
 | 43   | Anagram check                                       | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Anagram%20check.py             |
-| 44   | Check pangram                                       | 🟡 Intermediate| Completed  |              |
+| 44   | Check pangram                                       | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Pangram%20check.py             |
 | 45   | Remove spaces from string                           | 🟡 Intermediate| ⬜ Not Started  |              |
 | 46   | Longest word in a sentence                          | 🟡 Intermediate| ⬜ Not Started  |              |
 | 47   | Check if two strings are isomorphic                 | 🟡 Intermediate| ⬜ Not Started  |              |
