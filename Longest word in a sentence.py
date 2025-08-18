@@ -1,0 +1,5 @@
+sentence=input("Enter the sentence: ")
+words=sentence.split()
+max_word=max(words,key=len)
+length=len(max_word)
+print(f"The long word in the sentence '{sentence}' is: '{max_word}' with the length of '{length}'")
