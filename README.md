@@ -66,8 +66,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 42   | Palindrome string check                             | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Palindrome%20number.py             |
 | 43   | Anagram check                                       | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Anagram%20check.py             |
 | 44   | Check pangram                                       | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Pangram%20check.py             |
-| 45   | Remove spaces from string                           | 🟡 Intermediate| ⬜ Not Started  |              |
-| 46   | Longest word in a sentence                          | 🟡 Intermediate| ⬜ Not Started  |              |
+| 45   | Remove spaces from string                           | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Remove%20spaces%20from%20string.py             |
+| 46   | Longest word in a sentence                          | 🟡 Intermediate| Completed  |              |
 | 47   | Check if two strings are isomorphic                 | 🟡 Intermediate| ⬜ Not Started  |              |
 | 48   | Recursive factorial                                 | 🟡 Intermediate| ⬜ Not Started  |              |
 | 49   | Recursive Fibonacci                                 | 🟡 Intermediate| ⬜ Not Started  |              |
