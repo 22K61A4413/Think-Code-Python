@@ -71,7 +71,7 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 47   | Check if two strings are isomorphic                 | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Check%20if%20two%20strings%20are%20isomorphic.py             |
 | 48   | Recursive factorial                                 | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Recursive%20factorial.py             |
 | 49   | Recursive Fibonacci                                 | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Recursive%20Fibonacci.py             |
-| 50   | Recursively reverse a string                        | 🟡 Intermediate| Completed  |              |
+| 50   | Recursively reverse a string                        | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Recursively%20reverse%20a%20string.py             |
 | 51   | Power of a number using recursion                   | 🟡 Intermediate| ⬜ Not Started  |              |
 | 52   | Sum of digits using recursion                       | 🟡 Intermediate| ⬜ Not Started  |              |
 | 53   | Count vowels using recursion                        | 🟡 Intermediate| ⬜ Not Started  |              |
