@@ -73,7 +73,7 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 49   | Recursive Fibonacci                                 | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Recursive%20Fibonacci.py             |
 | 50   | Recursively reverse a string                        | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Recursively%20reverse%20a%20string.py             |
 | 51   | Power of a number using recursion                   | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Power%20of%20a%20number%20using%20recursion.py             |
-| 52   | Sum of digits using recursion                       | 🟡 Intermediate| Completed  |              |
+| 52   | Sum of digits using recursion                       | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Sum%20of%20digits%20using%20recursion.py             |
 | 53   | Count vowels using recursion                        | 🟡 Intermediate| ⬜ Not Started  |              |
 | 54   | Flatten nested list                                 | 🟡 Intermediate| ⬜ Not Started  |              |
 | 55   | Count frequency using dictionary                    | 🟡 Intermediate| ⬜ Not Started  |              |
