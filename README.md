@@ -81,7 +81,7 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 57   | Merge dictionaries                                  | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Merge%20dictionaries.py             |
 | 58   | Sort dictionary by value                            | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Sort%20dictionary%20by%20value.py             |
 | 59   | Convert two lists into a dictionary                 | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Convert%20two%20lists%20into%20a%20dictionary.py             |
-| 60   | Extract unique values from list of dicts            | 🟡 Intermediate| Completed  |              |
+| 60   | Extract unique values from list of dicts            | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Extract%20unique%20values%20from%20list%20of%20dicts.py             |
 | 61   | Set operations (union, intersection)                | 🟡 Intermediate| ⬜ Not Started  |              |
 | 62   | Find symmetric difference between sets              | 🟡 Intermediate| ⬜ Not Started  |              |
 | 63   | Check subset and superset                           | 🟡 Intermediate| ⬜ Not Started  |              |
