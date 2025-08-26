@@ -78,8 +78,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 54   | Flatten nested list                                 | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Flatten%20nested%20list.py             |
 | 55   | Count frequency using dictionary                    | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Count%20frequency%20using%20dictionary.py             |
 | 56   | Most frequent element in list                       | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Most%20frequent%20element%20in%20list.py             |
-| 57   | Merge dictionaries                                  | 🟡 Intermediate| ⬜ Not Started  |              |
-| 58   | Sort dictionary by value                            | 🟡 Intermediate| ⬜ Not Started  |              |
+| 57   | Merge dictionaries                                  | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Merge%20dictionaries.py             |
+| 58   | Sort dictionary by value                            | 🟡 Intermediate| Completed  |              |
 | 59   | Convert two lists into a dictionary                 | 🟡 Intermediate| ⬜ Not Started  |              |
 | 60   | Extract unique values from list of dicts            | 🟡 Intermediate| ⬜ Not Started  |              |
 | 61   | Set operations (union, intersection)                | 🟡 Intermediate| ⬜ Not Started  |              |
