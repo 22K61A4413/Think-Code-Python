@@ -80,8 +80,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 56   | Most frequent element in list                       | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Most%20frequent%20element%20in%20list.py             |
 | 57   | Merge dictionaries                                  | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Merge%20dictionaries.py             |
 | 58   | Sort dictionary by value                            | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Sort%20dictionary%20by%20value.py             |
-| 59   | Convert two lists into a dictionary                 | 🟡 Intermediate| ⬜ Not Started  |              |
-| 60   | Extract unique values from list of dicts            | 🟡 Intermediate| ⬜ Not Started  |              |
+| 59   | Convert two lists into a dictionary                 | 🟡 Intermediate| Completed  | https://github.com/22K61A4413/Think-Code-Python/blob/main/Convert%20two%20lists%20into%20a%20dictionary.py             |
+| 60   | Extract unique values from list of dicts            | 🟡 Intermediate| Completed  |              |
 | 61   | Set operations (union, intersection)                | 🟡 Intermediate| ⬜ Not Started  |              |
 | 62   | Find symmetric difference between sets              | 🟡 Intermediate| ⬜ Not Started  |              |
 | 63   | Check subset and superset                           | 🟡 Intermediate| ⬜ Not Started  |              |
