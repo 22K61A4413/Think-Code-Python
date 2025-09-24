@@ -9,4 +9,5 @@ while(temp>0):
 if sum==number:
     print(f"The given number is an armstrong number: {number}")
 else:
+
     print(f"The given number is not an armstrong number: {number}")
